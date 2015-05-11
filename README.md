@@ -1,8 +1,8 @@
 Build status: [![Build Status](https://travis-ci.org/bitcoinj/bitcoinj.png?branch=master)](https://travis-ci.org/bitcoinj/bitcoinj)
 
-### Welcome to bitcoinj
+### Welcome to zeitcoinj
 
-The bitcoinj library is a Java implementation of the Bitcoin protocol, which allows it to maintain a wallet and send/receive transactions without needing a local copy of Bitcoin Core. It comes with full documentation and some example apps showing how to use it.
+The zeitcoinj (bitcoinj) library is a Java implementation of the Bitcoin protocol, which allows it to maintain a wallet and send/receive transactions without needing a local copy of Zeitcoin Core. It comes with full documentation and some example apps showing how to use it.
 
 ### Technologies
 
